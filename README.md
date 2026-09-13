@@ -1,6 +1,4 @@
 # jpantonow
-
-![GitHub Metrics](https://metrics.lecoq.io/jpantonow?config.theme=gotham)
  
 :hammer_and_wrench: Languages and Tools
 <p align="left">
